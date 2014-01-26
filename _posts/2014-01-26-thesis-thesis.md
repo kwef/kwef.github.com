@@ -11,9 +11,14 @@ Yesterday I spoke with my wonderful advisor, and I spent about two hours talking
 
 Here's a sneak preview of the neato fixed-point operator that forms the heart of the whole operation:
 
-{% highlight haskell %}
-evaluate :: ComonadApply f => f (f b -> b) -> f b
-evaluate fs = fix $ (fs <@>) . duplicate
-{% endhighlight %}
+{% gist 8636894 %}
 
-I'll be writing much more about this project very soon!
+You can use it to succinctly define the infinite [Pascal's triangle](http://en.wikipedia.org/wiki/Pascal's_triangle)...
+
+{% gist 8636921 %}
+
+...and then get out a finite chunk of it:
+
+{% gist 8637051 %}
+
+There's a lot more to this project, and rest assured, I'll be writing much more about it soon!
