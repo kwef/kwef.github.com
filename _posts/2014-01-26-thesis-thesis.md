@@ -11,9 +11,9 @@ Yesterday I spoke with my wonderful advisor, and I spent about two hours talking
 
 Here's a sneak preview of the neato fixed-point operator that forms the heart of the whole operation:
 
-```Haskell
+{% highlight haskell %}
 evaluate :: ComonadApply f => f (f b -> b) -> f b
 evaluate fs = fix $ (fs <@>) . duplicate
-```
+{% endhighlight %}
 
 I'll be writing much more about this project very soon!
