@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Are you an effective team?""
+title: "\"Are you an effective team?\""
 description: ""
 category: 
 tags: [movies, science fiction, sociology]
