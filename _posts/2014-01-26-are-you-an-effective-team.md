@@ -18,11 +18,11 @@ But first, several initial notes:
 - Probably the best commentary on this film comes in the form of [this brilliant parody script](http://www.the-editing-room.com/oblivion.html) by one of my favorite blogs, [The Editing Room](http://www.the-editing-room.com).
 - Despite its swiss cheese plot and wax-paper characters, it somehow manages to be a pretty fun movie.
 
-What I want to talk about, though, is a particular recurring interaction between the main characters, and the&emdash;
+What I want to talk about, though, is a particular recurring interaction between the main characters, and the---
 
 **I AM ABOUT TO SPOIL THE BIG REVEAL AT THE END OF THE MOVIE**
 
-&emdash;evil alien AI, "Sally". Sally (Melissa Leo) pretends to be the protagonists' human commander, remotely located on the "Tet" space station. In actuality, the Tet is an alien craft pillaging the Earth's resources, and Jack (Tom Cruise) has been brainwashed to help the bad guys destroy the human resistance, who he believes to be alien "Scavs." How's that for a plot twist? I warned you.
+---evil alien AI, "Sally". Sally (Melissa Leo) pretends to be the protagonists' human commander, remotely located on the "Tet" space station. In actuality, the Tet is an alien craft pillaging the Earth's resources, and Jack (Tom Cruise) has been brainwashed to help the bad guys destroy the human resistance, who he believes to be alien "Scavs." How's that for a plot twist? I warned you.
 
 But let's talk about those arc words. Almost every day, Jack's business and sexual partner Vika (Andrea Riseborough) has the following interaction with Sally:
 
