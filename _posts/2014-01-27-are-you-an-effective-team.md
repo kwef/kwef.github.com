@@ -73,7 +73,7 @@ A first step toward this end, I claim, is to make a radical return to emotional 
 
 I had anticipated some negative reprecussions from this policy: being met with too much sympathy I didn't want, or perhaps awkward pauses in conversation. This hasn't much happened. I think I may have overestimated the amount of social awkwardity caused by giving a truly honest answer to a quick, nonchalant query.
 
-On the other hand, positive things *have* happened. I sometimes haven't noticed that I've got something gnawing away at my mind until I take that split second of mindfulness to introspect on my emotional landscape. Thus, everyday honesty to others has given me more room to be honest to myself/. Of equal importance, unexpected radical honesty about my life and feelings has led to some wonderful moments of connection, some with people with whom I did not expect to connect.
+On the other hand, positive things *have* happened. I sometimes haven't noticed that I've got something gnawing away at my mind until I take that split second of mindfulness to introspect on my emotional landscape. Thus, everyday honesty to others has given me more room to be honest to myself. Of equal importance, unexpected radical honesty about my life and feelings has led to some wonderful moments of connection, some with people with whom I did not expect to connect.
 
 Radical emotional honesty, even (especially) when it seems not to be the expected response, can make a meaningful dent in the problem of socially scripted dishonesty and disconnection. By being more mindful of words and more honest about feelings, maybe our friends and ourselves can form a more effective team.
 
