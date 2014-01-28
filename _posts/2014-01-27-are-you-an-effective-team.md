@@ -77,4 +77,6 @@ On the other hand, positive things *have* happened. I sometimes haven't noticed 
 
 Radical emotional honesty, even (especially) when it seems not to be the expected response, can make a meaningful dent in the problem of socially scripted dishonesty and disconnection. By being more mindful of words and more honest about feelings, maybe our friends and ourselves can form a more effective team.
 
-(Further reading: [This New York Times article](http://www.nytimes.com/2014/01/20/opinion/the-how-are-you-culture-clash.html?_r=0) discusses how the American "how are you" exchange strikes Russians the wrong way; the reaction described in the article is similar to what I'm talking about.)
+<br/>
+
+**Further reading:** [This New York Times article](http://www.nytimes.com/2014/01/20/opinion/the-how-are-you-culture-clash.html?_r=0) discusses how the American "how are you" exchange strikes Russians the wrong way; the reaction described in the article is similar to what I'm talking about.
