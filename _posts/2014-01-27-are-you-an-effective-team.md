@@ -76,3 +76,5 @@ I had anticipated some negative reprecussions from this policy: being met with t
 On the other hand, positive things *have* happened. I sometimes haven't noticed that I've got something gnawing away at my mind until I take that split second of mindfulness to introspect on my emotional landscape. Thus, everyday honesty to others has given me more room to be honest to myself/. Of equal importance, unexpected radical honesty about my life and feelings has led to some wonderful moments of connection, some with people with whom I did not expect to connect.
 
 Radical emotional honesty, even (especially) when it seems not to be the expected response, can make a meaningful dent in the problem of socially scripted dishonesty and disconnection. By being more mindful of words and more honest about feelings, maybe our friends and ourselves can form a more effective team.
+
+(Further reading: [This New York Times article](http://www.nytimes.com/2014/01/20/opinion/the-how-are-you-culture-clash.html?_r=0) discusses how the American "how are you" exchange strikes Russians the wrong way; the reaction described in the article is similar to what I'm talking about.)
